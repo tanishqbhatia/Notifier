@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">Notifier</string>
-    <string name="app_intro_skip_button">Skip</string>
-    <string name="app_intro_done_button">Done</string>
+    <string name="app_description">Tired of your unfollowers?\\nNow get notified and keep up your game.</string>
 </resources>
